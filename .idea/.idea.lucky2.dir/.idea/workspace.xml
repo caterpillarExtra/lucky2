@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f476eed9-b953-4391-a245-69b1ae1ce9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lucky2.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lucky2.dir/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PasswordAuthenticator.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lucky2.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lucky2.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lucky2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lucky2.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/PasswordAuthenticator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PasswordAuthenticator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,8 +47,10 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Lessons.js" />
         <option value="$PROJECT_DIR$/src/Components/PasswordAuthenticator.scss" />
-        <option value="$PROJECT_DIR$/src/Components/PasswordAuthenticator.js" />
         <option value="$PROJECT_DIR$/yarn.lock" />
+        <option value="$PROJECT_DIR$/src/Components/Firebase.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/PasswordAuthenticator.js" />
       </list>
     </option>
   </component>
@@ -82,7 +82,7 @@
       <updated>1627203750094</updated>
       <workItem from="1627203754457" duration="2437000" />
       <workItem from="1627207574951" duration="4464000" />
-      <workItem from="1627215738749" duration="482000" />
+      <workItem from="1627215738749" duration="6837000" />
     </task>
     <servers />
   </component>
